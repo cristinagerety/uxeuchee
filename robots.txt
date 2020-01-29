@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaeyoohahz.luuknoverraz.nl/sitemap.xml
